@@ -1,0 +1,7 @@
+basic <- as.numeric(readline("Enter the basic salary:"))
+
+da <- 0.4 * basic 
+hra <- 0.2 * basic 
+gross_salary <- basic+da+hra
+
+cat("Gross Salary is:",gross_salary,"\n")

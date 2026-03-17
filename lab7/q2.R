@@ -25,3 +25,4 @@ MAE4 <- mean(abs(Boston$medv - pred4))
 MSE4
 RMSE4
 MAE4
+

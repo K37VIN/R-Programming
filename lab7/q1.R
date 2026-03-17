@@ -33,3 +33,4 @@ MAE2 <- mean(abs(women$weight - pred2))
 MSE2
 RMSE2
 MAE2
+

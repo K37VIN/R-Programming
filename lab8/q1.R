@@ -12,3 +12,4 @@ boxplot(Salary ~ Attrition, data = employee,
         main = "Salary vs Attrition",
         xlab = "Attrition",
         ylab = "Salary")
+

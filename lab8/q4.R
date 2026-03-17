@@ -11,3 +11,4 @@ plot(retail$Discounts, retail$PurchaseAmount,
      main = "Discount vs Purchase Amount",
      xlab = "Discount (%)",
      ylab = "Purchase Amount")
+
